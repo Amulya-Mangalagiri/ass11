@@ -1,0 +1,8 @@
+D:\day-5\ass-11\ass-11\bin\Debug\ass-11.exe.config
+D:\day-5\ass-11\ass-11\bin\Debug\ass-11.exe
+D:\day-5\ass-11\ass-11\bin\Debug\ass-11.pdb
+D:\day-5\ass-11\ass-11\obj\Debug\ass-11.csproj.AssemblyReference.cache
+D:\day-5\ass-11\ass-11\obj\Debug\ass-11.csproj.SuggestedBindingRedirects.cache
+D:\day-5\ass-11\ass-11\obj\Debug\ass-11.csproj.CoreCompileInputs.cache
+D:\day-5\ass-11\ass-11\obj\Debug\ass-11.exe
+D:\day-5\ass-11\ass-11\obj\Debug\ass-11.pdb
